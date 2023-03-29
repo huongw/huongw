@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Whitney 👋</h1>
 <h3 align="center">Frontend Developer || UX Designer 👩‍🎨</h3>
+<p>I'm a front-end web developer with over 2 years of experience in building client-side applications, and UX designing with Figma and Adobe XD. I enjoy learning new tech stacks, contributing to open-source code on github, and building web applications from scratch using React, Next.js, Express.js and more.
+</p>
 
 - 🔭 I’m currently freelancing and building **Shopify** sites for various clients
 - <a href="https://developedbywhit.me/">👨‍💻 Check out my Portfolio</a>
 - <a href="https://medium.com/@whitneyhuong">📝 Check out my Blogs on Medium</a>
-
 - ⚡ Fun Fact: **I love to play League of Legends, watch horror/action films, and hangout with my two fur babies.**
 
 <h3 align="left">Connect with me:</h3>

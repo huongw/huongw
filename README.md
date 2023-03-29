@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Whitney H 👋</h1>
+<h1 align="center">Hi, I'm Whitney 👋</h1>
 <h3 align="center">Frontend Developer || UX Designer 👩‍🎨</h3>
 
-- 🔭 I’m currently freelancing and building **Shopify** sites
+- 🔭 I’m currently freelancing and building **Shopify** sites for various clients
 - <a href="https://developedbywhit.me/">👨‍💻 Check out my Portfolio</a>
 - <a href="https://medium.com/@whitneyhuong">📝 Check out my Blogs on Medium</a>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Whitney H 👋 Welcome to my Github!</h1>
+<h1 align="center">Hi, I'm Whitney H 👋</h1>
 <h3 align="center">Frontend Developer || UX Designer 👩‍🎨</h3>
 
 - 🔭 I’m currently freelancing and building **Shopify** sites

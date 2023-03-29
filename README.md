@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Whitney 👋</h1>
 <h3 align="center">Frontend Developer || UX Designer 👩‍🎨</h3>
-<p>I'm a front-end web developer with over 2 years of experience in building client-side applications, and UX designing with Figma and Adobe XD. I enjoy learning new tech stacks, contributing to open-source code on github, and building web applications from scratch using React, Next.js, Express.js and more.
+<p>I'm a front-end web developer with over 2 years of experience in building client-side applications, and UX design with Figma and Adobe XD. I enjoy learning new tech stacks, contributing to open-source code on github, and building web applications from scratch using React, Next.js, Express.js and more.
 </p>
 
 - 🔭 I’m currently freelancing and building **Shopify** sites for various clients

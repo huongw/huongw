@@ -4,8 +4,8 @@
 </p>
 
 - 🔭 I’m currently freelancing and building **Shopify** sites for various clients
-- <a href="https://developedbywhit.me/">👨‍💻 Check out my Portfolio</a>
-- <a href="https://medium.com/@whitneyhuong">📝 Check out my Blogs on Medium</a>
+- <a href="https://developedbywhit.me/" target="_blank">👨‍💻 Check out my Portfolio</a>
+- <a href="https://medium.com/@whitneyhuong" target="_blank">📝 Check out my Blogs on Medium</a>
 - ⚡ Fun Fact: **I love to play League of Legends, watch horror/action films, and hangout with my two fur babies.**
 
 <h3 align="left">Connect with me:</h3>
